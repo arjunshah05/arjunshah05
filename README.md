@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Your Name]
+### Hi there! 👋 I'm Arjun Kumar Sah
 
 🎓 **MCA Student**  
 - Pursuing Master’s in Computer Applications  
@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, Python, C++  
-- **Web Dev:** HTML, CSS, JavaScript, JSP, Servlets  
+- **Web Dev:** HTML, CSS, JavaScript, JSP, Servlets ,spring boot  
 - **Database:** MySQL, MongoDB  
 - **Tools:** Git, VS Code  
 
