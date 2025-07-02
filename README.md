@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi there! 👋 I'm [Your Name]
 
-<!--
-**arjunshah05/arjunshah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MCA Student**  
+- Pursuing Master’s in Computer Applications  
+- Interested in web development, problem solving, and learning new technologies  
+- Passionate about building real-world projects and collaborating with others  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, Python, C++  
+- **Web Dev:** HTML, CSS, JavaScript, JSP, Servlets  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, VS Code  
+
+---
+
+### 🚀 Projects
+- Developed a **Bank Management System** using Java and MySQL  
+- Created a **Personalized Travel Itinerary App** with API integration  
+- Built a **Login + Registration Web App** using Java, JSP, and Tomcat  
+
+---
+
+### 📊 Learning & Growing
+- Currently learning Spring Boot and REST APIs  
+- Exploring Backend Development and full-stack tools  
+
+---
+
+### 🤝 Let’s Connect!
+- 🌐 [Portfolio](#)  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+
+---
+
+Thanks for visiting! Let's build something amazing together 🚀
+
