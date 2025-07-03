@@ -30,8 +30,8 @@
 
 ### 🤝 Let’s Connect!
 - 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
+- 💼 [LinkedIn](#https://www.linkedin.com/in/arjunaarya)  
+- 🐦 [Twitter](#https://x.com/arjun_aarya05)  
 
 ---
 
