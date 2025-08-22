@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, Python, C++  
+- **Languages:** Java, Python
 - **Web Dev:** HTML, CSS, JavaScript, JSP, Servlets ,spring boot  
 - **Database:** MySQL, MongoDB  
 - **Tools:** Git, VS Code  
