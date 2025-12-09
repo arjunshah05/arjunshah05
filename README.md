@@ -29,7 +29,7 @@
 ---
 
 ### 🤝 Let’s Connect!
-- 🌐 [Portfolio](#)  
+- 🌐 [Portfolio](https://my-portfolio-plum-seven-91.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/arjunaarya)  
 - 🐦 [Twitter](https://x.com/arjun_aarya05)  
 
